@@ -12,7 +12,7 @@ class Config:
         # Session string provided by user
         self.SESSION_STRING: str = os.getenv(
             "TELEGRAM_SESSION_STRING", 
-            "BQC_XyrnKFtrbfnZeceyJkttqcoh0_qBLoJ6qMsp2Uz4U4n6zH4hchmdGCZmiAtf4UuLH-vVhGlIrOo0487LR0bQKQAqG-NmBol4CH11LjltDKeBOiEylYp_S3mFEBmOV3oND1_vAYkF6dxO1MSxkYQcn6zY-yyYr8OCW9jV55teGLEVv5Kw4xxsp4zfIt7p5OmmMT2uLnWaQ4d_XnO3t3l2W4imCiJk_ovxxe_TYv4TjbaUBoQPCosQWdE9sf39U1pAoBkIPGPhJIoNdchcwUzDfQmzzc14x_-CFRa-XgXR0Eh2hr-kt6hdTaKuOnNuy5Y_gZWwkJ0zrTdzQrUH0BgSAAAAAa17MCUA"
+            "BQHEi4oARVfNi9N8a0db-nzObercY1MEaLdUYzDl3YiRul8HdLhcNP3Du1wspXXMov5flQ30chjV-iO0IbNqh97FjiRnGWWbKgcvMwo7ycVsua5hzUlZ4a1MRzb5mmuvMK5QoYiNpRG-IGw1bpxHfIGIu09Z6g4cZMj194iLKb9QnHtlPw-jmO4iPOR1bNPsualcMfv8GwtjBFdaKUFFW7OYaGGOXAnKLs6C3umDEGqUrmgU2wsvpucGNYHvXHA3JYlS5BCQKqWahvBbco0WC2GWBIOZuiD4mzsNu4YBBGIlgnfqR4uLAtWcc4FpdDtjHMzY68XpKB2epecoeHnxpIbQQiDjogAAAAGtezAlAA"
         )
         
         # Bot username
